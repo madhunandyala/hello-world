@@ -7,4 +7,4 @@ Once again trying to commit. This would be second commit for me using GIT.
 
 Sample commit.
 
-Commit on Master branch
+Branch commit.
